@@ -14,3 +14,4 @@ Notas:
 Dia 1: projeto para o dia 25/02.
 Falta: tudo.
 Objetivo do dia: Revisar e entender o código. Instalar GitHub e criar repositório local.
+Resumo do dia: Criei o diário após entender o código, também foram criados os arquivos, media.py e entertaiment_center.py. Dentro do arquivo media.py criei a classe Movies, contendo titulo, poster e url do trailer. Usei 9 instâncias da classe Movies dentro do arquivo entertaiment_center.py, ordenei as instâncias dentro de uma lista movies e chamei a função open_movie_page() usando a lista como parâmetro para criar e abrir o arquivo fresh_tomatoes.html. Terminando todo o trabalho em aproximadamente 40 min.
