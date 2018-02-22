@@ -1,0 +1,16 @@
+Sistema Site de filmes:
+Falta:
+	1-Criar uma estrutura de dados (Classe Python) para guardar seus filmes favoritos, incluindo título, URL da arte ou poster e um link para o trailer do filme no Youtube.
+	Create multiple instances of that Python Class to represent your favorite movies; group all the instances together in a list.
+	2-Crie multiplas instâncias da classe Phyton para representar seus filmes favoritos, junte todas as instâncias em uma lista.
+	3-Verifique se seu site renderiza corretamente quando você tenta carrega lo em um browser.
+	
+Notas:
+	1-O arquivo fresh_tomatoes.py cotém a função open_movies_page(), a qual vai pegar a sua lista de filmes e gerar um arquivo HTML com tudo isso, produzindo um site para exibir seus filmes favoritos.		
+  2-Sua tarefa é escrever a classe "movie" no arquivo media.py. Para fazer isso, pense as propriedades dos filmes necessarias para esse trabalho, título, poster(box art), URL do trailer. Observe o que a função open_movies_page() faz com a list de objetos "movie" para dicas sobre como desenhar sua classe "movies".
+  3- Escreva um construtor para a classe movie, para que você possa criar instâncias. Crie a lista no arquivo entertaiment_center.py usando o construtor media.Movie(). Você deu uma estrutura de dados para os filmes, agora esses objetos podem ser guardados em uma estrutura de dados tipo lista. Esta lista de filmes e o que a função open_movie_page() precisa como parametro para que possa construir o arquivo HTML.
+
+
+Dia 1: projeto para o dia 25/02.
+Falta: tudo.
+Objetivo do dia: Revisar e entender o código. Instalar GitHub e criar repositório local.
