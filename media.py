@@ -1,6 +1,7 @@
 class Movies():
 	""" Class that defines a movie. """
 	
+	#Function that intanciates the class Movies, using as parameter, title, art(poster) and url youtube trailer
 	def __init__(self, movie_title, poster_image, trailer_youtube):
 		self.title = movie_title
 		self.poster_image_url = poster_image
