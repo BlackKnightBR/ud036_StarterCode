@@ -15,3 +15,26 @@ Dia 1: projeto para o dia 25/02.
 Falta: tudo.
 Objetivo do dia: Revisar e entender o código. Instalar GitHub e criar repositório local.
 Resumo do dia: Criei o diário após entender o código, também foram criados os arquivos, media.py e entertaiment_center.py. Dentro do arquivo media.py criei a classe Movies, contendo titulo, poster e url do trailer. Usei 9 instâncias da classe Movies dentro do arquivo entertaiment_center.py, ordenei as instâncias dentro de uma lista movies e chamei a função open_movie_page() usando a lista como parâmetro para criar e abrir o arquivo fresh_tomatoes.html. Terminando todo o trabalho em aproximadamente 40 min.
+
+Dia 2: projeto para o dia 25/02.
+Falta: Re fatorar os códigos com comentários e passar o código pelo PEP8.
+Objetivo do dia: Comentar os dois códigos, media.py e entertaiment_center.py.
+Resumo do dia: Coloquei comentários nos dois códigos explicando o que as rotinas e chamadas criam e alteram. 
+    Também passei o código media.py pelo PEP8 e fiz todas alterações necessárias para que ele passase nos padrões de qualidade, aprendi que "tariling whitespace" significa um espaço no final da linha.
+    
+Dia 3: projeto para o dia 25/02 (dia 26/02).
+Falta: Reduzir as chamadas da classe "Movies" no arquivo entertaiment_center.py pois ficaram muito grandes e passar o arquivo pelo PEP8.
+Objetivo do dia: Terminar o trabalho da melhor forma possível.
+Resumo do dia: Busquei links menores para as imagens dos posters para diminuir as strings, organizei as chamadas usando a formatação ideal (uma das formas de se fazer) é como segue o exemplo.
+    Ex:
+        into_the_wild = media.Movies(
+            "Into The Wild",
+            "https://resizing.flixster.com/QVAYl1_7N8StUG8JkUo28qdjxDY=/206x305/" +
+            "v1.bTsxMTYyMjIxNztqOzE3Njg0OzEyMDA7NzkyOzEwNTY",
+            "https://www.youtube.com/watch?v=g7ArZ7VD-QQ"
+        )
+    Note que as linhas não devem possuir mais que 79 caracteres.
+
+Motivo de atrasar o projeto, falta de dedicação, o arquivos não tinham comentários, não segui o padrão PEP python e usei strings muito longas como parâmetro.
+
+Os corretores fizeram comentários possitivos sobre meu projeto e dedicação ao trabalho. 
