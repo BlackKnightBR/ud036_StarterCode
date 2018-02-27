@@ -44,13 +44,13 @@ x_machina = media.Movies(
     "X Machina",
     "http://www.joblo.com/timthumb.php?src=/posters/images/full/" +
     "ex-machina-large.jpg&h=273&w=183&q=100",
-    "https://www.youtube.com/watch?v=PI8XBKb6DQk"
+    "https://www.youtube.com/watch?v=sNExF5WYMaA"
 )
 
 george_harrison = media.Movies(
     "George Harrison into the material world",
     "https://www.superseventies.com/oaaa/oaaa_harrison2_thumb.jpg",
-    "https://www.youtube.com/watch?v=fJh9O8pI4Ck"
+    "https://www.youtube.com/watch?v=kzsykzX28Ws"
 )
 
 born_strong = media.Movies(
