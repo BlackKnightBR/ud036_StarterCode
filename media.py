@@ -1,14 +1,15 @@
-##########################################
 # Project: Movie Website
 # Date Started: 22/02/2018
 # Date Completed: 26/02/2018
 # Submitted by: Rodrigo Montebello Saboya Brito
-##########################################
+# ---------------------------------------------------------------------------
 
-######################################## Media File ####################################################
-# Description: This file creates the class Movie to allow for instances of this class to be used in the
-#              entertainment.py file. This definition of the class Movie was obtained through the course
-########################################################################################################
+# --------------------------------Media File --------------------------------
+# Description: This file creates the class Movie to allow for
+# instances of this class to be used in the entertainment.py file.
+# This definition of the class Movie was obtained through the course
+# ---------------------------------------------------------------------------
+
 
 class Movies():
     """ Class that defines a movie. """
